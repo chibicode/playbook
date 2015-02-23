@@ -51,7 +51,7 @@ rspec spec/models spec/services spec/decorators ...
 
 [`active_record_spec_helper`](https://gist.github.com/coreyhaines/2068977) lets you load ActiveRecord models without loading Rails.
 
-[View Related Blog Post >](http://articles.coreyhaines.com/posts/active-record-spec-helper/)
+> [View Related Blog Post](http://articles.coreyhaines.com/posts/active-record-spec-helper/)
 
 #### Add `-I app` flag on `.rspec`
 
