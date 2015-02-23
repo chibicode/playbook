@@ -4,6 +4,14 @@ My personal playbook for coding/design (WIP).
 
 [View on **chibicode.github.io/playbook** >](http://chibicode.github.io/playbook/)
 
+## Graphic Design
+
+### Stock Photos
+
+#### Use Unsplash
+
+[https://unsplash.com/](https://unsplash.com/). There's also [Unsplash.it](https://unsplash.it/) for placeholders.
+
 ## Rails
 
 ### Acceptance Testing
