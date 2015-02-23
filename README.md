@@ -2,6 +2,8 @@
 
 My personal playbook for coding/design (WIP).
 
+[View on **chibicode.github.io/playbook** →](http://chibicode.github.io/playbook/)
+
 ## Rails
 
 ### Acceptance Testing
