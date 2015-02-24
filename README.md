@@ -12,6 +12,30 @@ My personal playbook for coding/design (WIP).
 
 [https://unsplash.com/](https://unsplash.com/). There's also [Unsplash.it](https://unsplash.it/) for placeholders.
 
+## Development Practices
+
+### Git
+
+#### Optionally use Emojis for commit
+
+From [Atom's CONTRIBUTING.md](https://github.com/atom/atom/blob/master/CONTRIBUTING.md):
+
+* :art: `:art:` when improving the format/structure of the code
+* :racehorse: `:racehorse:` when improving performance
+* :non-potable_water: `:non-potable_water:` when plugging memory leaks
+* :memo: `:memo:` when writing docs
+* :penguin: `:penguin:` when fixing something on Linux
+* :apple: `:apple:` when fixing something on Mac OS
+* :checkered_flag: `:checkered_flag:` when fixing something on Windows
+* :bug: `:bug:` when fixing a bug
+* :fire: `:fire:` when removing code or files
+* :green_heart: `:green_heart:` when fixing the CI build
+* :white_check_mark: `:white_check_mark:` when adding tests
+* :lock: `:lock:` when dealing with security
+* :arrow_up: `:arrow_up:` when upgrading dependencies
+* :arrow_down: `:arrow_down:` when downgrading dependencies
+* :shirt: `:shirt:` when removing linter warnings
+
 ## Rails
 
 ### Acceptance Testing
