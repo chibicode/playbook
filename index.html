@@ -59,6 +59,13 @@
       text-rendering: optimizeLegibility;
       font-family: montserrat;
     }
+
+    .emoji {
+      width: 1.5em;
+      height: 1.5em;
+      display: inline-block;
+      margin-bottom: -0.25em;
+    }
   </style>
 </head>
 <body role='flatdoc'>
@@ -86,7 +93,7 @@
 
   <script>
   $(document).on('flatdoc:ready', function() {
-    emojify.run();
+    emojify.run(window.document.body);
   });
   </script>
 </body>
