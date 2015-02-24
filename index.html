@@ -41,7 +41,6 @@
     Flatdoc.run({
       fetcher: Flatdoc.github('chibicode/playbook')
     });
-    emojify.run();
   </script>
 
   <!-- Customizations -->
@@ -85,5 +84,10 @@
     <div role='flatdoc-content' class='content'></div>
   </div>
 
+  <script>
+  $(document).on('flatdoc:ready', function() {
+    emojify.run();
+  });
+  </script>
 </body>
 </html>
