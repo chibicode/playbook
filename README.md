@@ -35,6 +35,15 @@ From other places:
 
 * :gem: `:gem:` when installing gems
 
+## Ruby
+
+### Style Guide
+
+#### Use RuboCop (and optionally Hound CI, which uses RuboCop)
+
+https://github.com/bbatsov/rubocop
+https://github.com/thoughtbot/hound
+
 ## Rails
 
 ### Acceptance Testing
