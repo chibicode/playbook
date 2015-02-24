@@ -29,6 +29,9 @@
   <link  href='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/style.css' rel='stylesheet'>
   <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/script.js'></script>
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojify.js/0.9.5/emojify.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/emojify.js/0.9.5/emojify.min.js"></script>
+
   <!-- Meta -->
   <meta content="@chibicode's playbook" property="og:title">
   <meta content="@chibicode's playbook description goes here." name="description">
@@ -38,6 +41,7 @@
     Flatdoc.run({
       fetcher: Flatdoc.github('chibicode/playbook')
     });
+    emojify();
   </script>
 
   <!-- Customizations -->
