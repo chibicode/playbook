@@ -31,6 +31,10 @@ From [Atom's CONTRIBUTING.md](https://github.com/atom/atom/blob/master/CONTRIBUT
 * :arrow_up: `:arrow_up:` when upgrading dependencies
 * :shirt: `:shirt:` when removing linter warnings
 
+From other places:
+
+* :gem: `:gem:` when installing gems
+
 ## Rails
 
 ### Acceptance Testing
