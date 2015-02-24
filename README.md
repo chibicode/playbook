@@ -2,7 +2,7 @@
 
 My personal playbook for coding/design (WIP).
 
-[View on **chibicode.github.io/playbook** >](http://chibicode.github.io/playbook/)
+<a href="http://chibicode.github.io/playbook/" class="hidden-flatdoc">View on <strong>chibicode.github.io/playbook</strong></a>
 
 ## Graphic Design
 
