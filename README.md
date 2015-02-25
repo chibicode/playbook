@@ -101,3 +101,13 @@ Instead of `require_relative ../../` for Rails-less tests, you can use relative 
 # On .rspec
 -I app
 ```
+
+### Emails
+
+#### Don't spam customers accidentally on dev environment
+
+Consider using:
+
+- [letter_opener](https://github.com/ryanb/letter_opener)
+- [mailcatcher](https://github.com/sj26/mailcatcher)
+- [MailTrap](https://mailtrap.io/)
