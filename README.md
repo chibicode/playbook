@@ -35,6 +35,37 @@ From other places:
 
 * :gem: `:gem:` when installing gems
 
+## CSS
+
+### Go-to Font Stacks
+
+#### Avenir:
+
+```
+font-family: avenir, 'avenir next', helvetica, 'helvetica neue', arial, sans-serif;
+```
+
+#### Code:
+
+```
+font-family: Consolas, monaco, monospace;
+```
+
+#### Japanese:
+
+```
+font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+```
+
+Thanks to [tachyons](https://github.com/mrmrs/tachyons-font-family/blob/master/tachyons-font-family.css).
+
+### Base Templates
+
+#### MNML and Tachyons
+
+- http://mn-ml.cc/
+- http://tachyons.io/
+
 ## Ruby
 
 ### Style Guide
